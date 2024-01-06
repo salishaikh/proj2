@@ -1,0 +1,39 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Nick Mulvenney",
+      "title": "Third Test cricket: Australia hunts for Pakistan sweep in David Warner week",
+      "description": "Captain Pat Cummins says the same team that won the first two Tests will take the field at the SCG on Wednesday.",
+      "url": "http://www.afr.com/companies/sport/australia-hunts-for-pakistan-sweep-in-warner-week-20240102-p5eurr",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_18/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/7ddcb982711b7dd86ea6b7009e09298ffa595e2e",
+      "publishedAt": "2024-01-02T05:41:33Z",
+      "content": "Every time he walks out there, hes competitive, ready to go, so just a champion of Australian sport, and hopefully, he gets a good send-off this week.\r\nWarner said on Monday that he would also be ret… [+1634 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
